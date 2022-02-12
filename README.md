@@ -5,5 +5,6 @@
 
 ![enter image description here](https://www.altium.com/documentation/sites/default/files/wiki_attachments/296650/RotationalSphere2.gif)
 
-https://electropeak.com/learn/wp-content/uploads/2019/07/stm_gif5.gif
+![enter image description here](https://electropeak.com/learn/wp-content/uploads/2019/07/stm_gif5.gif)
+
 ![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
