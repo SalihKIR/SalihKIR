@@ -3,5 +3,5 @@
 -   🌱  I’m currently learning STM32 for embedded system
 -   💬  Ask me about STM32
 
-![enter image description here](https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![enter image description here](https://www.altium.com/documentation/sites/default/files/wiki_attachments/296650/RotationalSphere2.gif)
 ![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
