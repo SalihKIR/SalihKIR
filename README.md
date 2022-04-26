@@ -3,8 +3,4 @@
 -   🌱  I’m currently learning STM32 for embedded system. Also I’m currently learning Altimun Designer for PCB.
 -   💬  Ask me about STM32 or Altimun Designer.Also ask me about IOS and Swift.
 
-![enter image description here](https://www.altium.com/documentation/sites/default/files/wiki_attachments/296650/RotationalSphere2.gif)
-
-![enter image description here](https://electropeak.com/learn/wp-content/uploads/2019/07/stm_gif5.gif)
-
-![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+![image](https://user-images.githubusercontent.com/77065124/165231765-ff317048-987b-4b22-9c30-4c76d090f28f.gif)
