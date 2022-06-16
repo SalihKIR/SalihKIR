@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihkir&show_icons=true&locale=en&layout=compact" alt="salihkir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkir&show_icons=true&locale=en" alt="salihkir" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihkir)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/salihkir/blob/output/github-contribution-grid-snake.gif)
